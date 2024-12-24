@@ -13,3 +13,4 @@ This is a simple and interactive To-Do List app built using React and CSS. The a
 
 The app features smooth transitions, modern design elements, and is fully responsive. It's designed to be easy to use while offering essential task management functionalities.
 
+![image](https://github.com/user-attachments/assets/37eacf57-af78-4530-a80d-e5112a9d3bfc)
